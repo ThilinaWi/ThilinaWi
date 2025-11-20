@@ -2,7 +2,7 @@
 <h1 align="center">Hy, I'm Thilina Wickramarathna</h1>
  
 
-<h3 align="center">Passionate IT Student | Full stack Developer</h3>
+<h3 align="center">Passionate SE Student | Full stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThilinaWi&label=Profile%20views&color=0e75b6&style=flat" alt="ThilinaWi" />
 <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px />
